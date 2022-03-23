@@ -1,1 +1,1 @@
-laravel passport test ( Password Geant )
+laravel passport test ( Password Grant )
